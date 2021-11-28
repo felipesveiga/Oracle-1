@@ -2,7 +2,7 @@
 
 The goal of this project is to demonstrate Python's capability to interact with Oracle Databases through the usage of cx_Oracle library.
 
-To do this, I have simulated a situation in which I work for a hardware selling company that needs to get a variety of data about its performance. My role is to get access to the company's Oracle database in order to get the information demanded.
+To do this, I have simulated a situation in which I work for a hardware selling company that needs to get a variety of data about its performance. My role is to get access to the company's Oracle database in order to obtain the information demanded.
 
 My tasks are the following:
     
