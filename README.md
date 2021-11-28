@@ -4,7 +4,7 @@ The goal of this project is to demonstrate Python's capability to interact with 
 
 To do this, I have simulated a situation in which I work for a hardware selling company that needs to get a variety of data about its performance. My role is to get access to the company's Oracle database in order to get the information demanded.
 
-My tasks are:
+My tasks are the following:
     
     1) Obtain the level of storage of each of the company's warehouses.
 
