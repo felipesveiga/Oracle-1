@@ -1,4 +1,4 @@
-# Data Analysis Project Involving Oracle SQL.
+# Integrating Python and Oracle Databases
 
 The goal of this project is to demonstrate Python's capability to interact with Oracle Databases through the usage of cx_Oracle library.
 
